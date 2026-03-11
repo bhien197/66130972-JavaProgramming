@@ -4,7 +4,7 @@ public class BaiTap1 {
 	public static void main(String[] args) {
 	 // 1. Khai báo các biến
 		double a = 15;
-		double  b= 4;
+		double b= 4;
 		double c= 3.5;
 	// 2. Tính toán
 		double tong = a+b;
